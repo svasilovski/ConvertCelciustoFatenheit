@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convert celsius to fahrenheit</string>
+    <string name="btn_convert">Convert</string>
+    <string name="lbl_placeholder">Temperature in celsius...</string>
+    <string name="message">Temperature: %.2f °F</string>
+    <string name="messageTempNull">You must enter a value.</string>
+</resources>
